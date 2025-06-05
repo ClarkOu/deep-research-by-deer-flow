@@ -13,7 +13,9 @@
 
 ## demo video
 
-Uploading cc265019761bece0f4b4680ceb441627.mov…
+
+https://github.com/user-attachments/assets/ba779601-a422-4dac-9ba3-80ee49d84f3e
+
 
 
 ## 原项目：
